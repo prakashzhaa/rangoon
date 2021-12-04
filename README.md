@@ -27,6 +27,8 @@ Now we can set up everything, it's quite simple:
 
  - `git clone https://github.com/prakashzhaa/rangoon.git`
  - `cd rangoon`
+ - `chmod +x install.sh`
+ - `chmod +x rangoon.sh`
  - `./install.sh`
 
 Grab a cup of coffee since this will take a while.
