@@ -11,6 +11,7 @@
     ||   \/\   ||	|| ||	    ||   ||||	||   ||||||    ||||||	||       ||                                                 
                                                                       @prakashzhaa 
 ```
+```
 *Rangoon** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.
 
 ghost uses lot of techniques (passive, bruteforce, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.
