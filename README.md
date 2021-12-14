@@ -47,7 +47,7 @@ Nuclei and its templates have been implemented in the routine!
 
 Finally the live targets will be screenshotted and evaluated to discover endpoints.
 
-Results will be stored on the Recon Pi and can be viewed by running `python -m SimpleHTTPServer 1337" in your results directory. Your results will be accessible from any system with a browser that exists in the same network. 
+Results will be stored on the rangoon and can be viewed by running `python -m SimpleHTTPServer 1337" in your results directory. Your results will be accessible from any system with a browser that exists in the same network. 
 
 Make sure to add your SLACK token to the tokens.txt file if you want to get slack notification after the completion of recon process.
 
