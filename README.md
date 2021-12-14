@@ -43,7 +43,7 @@ $ rangoon <domain.tld>
 
 `rangoon.sh` will first gather resolvers for the given target, followed by subdomain enumeration and checking those assets for potential subdomain takeover. When this is done the IP addresses of the target are enumerated. Open ports will be discovered accompanied by a service scan provided by Nmap.
 
-[Nuclei](https://github) and its templates have been implemented in the routine!
+Nuclei and its templates have been implemented in the routine!
 
 Finally the live targets will be screenshotted and evaluated to discover endpoints.
 
